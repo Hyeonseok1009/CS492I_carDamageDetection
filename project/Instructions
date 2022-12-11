@@ -1,0 +1,5 @@
+It is important to upload the folder named "project" in your google drive.
+Many functions import models, call functions from other notebooks. Therefore, if uploaded like this in google drive
+You do not have to modify anything, and the code should work.
+
+To test all models, just go to Full_test.ipynb
